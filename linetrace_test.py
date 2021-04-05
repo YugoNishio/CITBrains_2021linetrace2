@@ -6,7 +6,7 @@ GPIO.setmode(GPIO.BCM)
 #日本語を入れるとエラーが出るので使う時日本語コメントは消す
 
 #--------------pin declaration--------------------
-#ピン番号の宣言
+#ピン番号の宣言小川
 motor_pin_right = 13
 motor_right_in1 = 17 
 motor_right_in2 = 27
