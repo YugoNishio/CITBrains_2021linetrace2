@@ -6,8 +6,8 @@
 import pigpio
 import time
   
-PIN1 = 13
-PIN2 = 19
+PIN1 = 19
+PIN2 = 13
    
 pi1 = pigpio.pi()
 pi1.set_mode(PIN1, pigpio.OUTPUT)
